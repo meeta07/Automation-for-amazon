@@ -20,7 +20,7 @@ public class NavigatingWebsiteTest {
 			try {
 				Thread.sleep(10000);
 			} catch (InterruptedException e) {
-				// TODO Auto-generated catch block
+				// TODO Auto-generated catch bllock
 				e.printStackTrace();
 			}
 
